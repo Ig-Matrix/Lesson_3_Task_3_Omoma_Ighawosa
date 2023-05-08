@@ -1,6 +1,6 @@
 ##CSS Task 3 | Custom Typography and Color Scheme
 
-Link To live site : 
+Link To live site : https://ig-matrix.github.io/Lesson_3_Task_3_Omoma_Ighawosa/
 
 ##How to run/test this project
 
